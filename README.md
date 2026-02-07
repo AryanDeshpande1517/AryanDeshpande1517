@@ -1,4 +1,4 @@
-# Hi there, I'm Aryan Deshpande! 👋
+# Hi there, I'm Aryan Deshpande! 👋🏻
 
 I am a Computer Science (AI & ML) student at Vellore Institute of Technology and an aspiring Data Analyst. I specialize in turning complex datasets into visual intelligence suites that drive decision-making.
 
