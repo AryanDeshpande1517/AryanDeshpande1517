@@ -86,9 +86,8 @@ Key Highlights:
 
 # 🎓 Education
 
-B.Tech – Computer Science Engineering (AI & ML) @ **Vellore Institute of Technology** (2022 – 2026)
-
-CGPA: **8.11**
+- B.Tech – Computer Science Engineering (AI & ML) @ **Vellore Institute of Technology** (2022 – 2026)
+- CGPA: **8.11**
 
 # 📜 Certifications
 
