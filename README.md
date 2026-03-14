@@ -1,7 +1,7 @@
 # Hi there, I'm Aryan Deshpande! 👋🏻
 
-🎓 **B.Tech CSE (AI & ML) @ Vellore Institute of Technology**  
-📊 **Aspiring Data Analyst | Data Visualization & ETL Specialist**
+🎓 **B.Tech. CSE (AI & ML) @ Vellore Institute of Technology**  
+📊 **Aspiring Data Analyst**
 
 I build **data intelligence systems that convert complex datasets into clear, decision-driven dashboards**.
 
@@ -59,7 +59,6 @@ Key Highlights:
 - Python
 - SQL (MySQL, BigQuery)
 - Java
-- R
 
 ### Data Analysis & Libraries
 - Pandas
@@ -87,14 +86,12 @@ Key Highlights:
 
 # 🎓 Education
 
-**Vellore Institute of Technology**  
-B.Tech – Computer Science Engineering (AI & ML)  
-2022 – 2026  
+B.Tech – Computer Science Engineering (AI & ML) @ **Vellore Institute of Technology** (2022 – 2026)
 CGPA: **8.11**
 
 # 📜 Certifications
 
-- **Google Data Analytics Professional Certificate** (2026)
+- **Google Data Analytics Professional Certificate** *(A specialization consisting of 9 courses)* (2026)
 - **IBM Generative AI using Watsonx** (2025)
 - **Applied Machine Learning in Python – University of Michigan (Coursera)** (2024)
 
@@ -118,4 +115,4 @@ aryandeshpande.1517@gmail.com
 https://github.com/AryanDeshpande1517
 
 > *"There is no creativity that can exist by definition in any AI model, because it is data-driven."*  
-> — **Strauss Zelnick**, CEO of Take-Two Interactive
+> — **Strauss Zelnick**, CEO of Take-Two Interactive (Parent Company of Rockstar Games, 2K Games & Zynga).
